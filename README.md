@@ -4,7 +4,7 @@
 ![555](555IC-Timer/3D_PCB1_2020.png)
 
 # 5V DC regulator
-![rEg](5V_DC_regulator/3d PCB.png)
+![rEg](5V_DC_regulator/3d_PCB.png)
 
 # Push Button Control LED
 ![pushButton](Ardunino/(3) 3D PCB.png)
